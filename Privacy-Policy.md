@@ -88,7 +88,7 @@ We will not sell, trade, rent or disclose any of the personal information you pr
 Your Personal Information is stored offsite in a manner that reasonably protects it from misuse, loss, unauthorized access, modification or disclosure.
 
 **Policy Updates**
-This Policy may change from time to time. The most current version of our Privacy Policy can be found at [INSERT URL HERE]. We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
+This Policy may change from time to time. The most current version of our Privacy Policy can be found at https://github.com/Tobias-Glimmerfors/The-Gravity-Privacy-Policy/blob/master/Privacy-Policy.md. We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
 Complaints
 You can lodge a complaint with us about any breach of our Privacy Policy at the address below.
 
