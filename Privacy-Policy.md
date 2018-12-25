@@ -55,7 +55,7 @@ If you contact us with a comment or query, we keep a copy of any personal inform
 
 **What about Sensitive Information?**
 
-Sensitive information includes but is not limited to information about such things as an individual’s racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a professional body, criminal records or health information.
+Sensitive information includes, but is not limited to, information about such things as an individual’s racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a professional body, criminal records or health information.
 We will not attempt to obtain nor record any sensitive information.
 
 **Third Party Service Providers**
