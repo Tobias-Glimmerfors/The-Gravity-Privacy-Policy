@@ -1,6 +1,6 @@
 **The Gravity Privacy Policy**
 
-At The Gravity (defined here as “We” or “Our”), We value your comments, suggestions and feedback. For any feedback, please contact the email-address found at the bottom. Our Privacy Policy sets out how we collect, use and disclose “personal information” and other “non-personal information” that was have gathered about you in relation to any of our games.
+At The Gravity (defined here as “We” or “Our”), We value your comments, suggestions and feedback. For any feedback, please contact the email-address found at the bottom. Our Privacy Policy sets out how we collect, use and disclose “personal information” and other “non-personal information” that was gathered about you in relation to any of our games.
 By using any of our games, you acknowledge and consent to the terms of this privacy policy.
 
 This policy will let you know:
