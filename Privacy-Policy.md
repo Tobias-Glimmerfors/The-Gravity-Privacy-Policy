@@ -79,7 +79,8 @@ Our websites and apps may also contain APIs from other third parties. As with Go
 
 Our third-party partners, and their privacy policies are as follows:  
   * Unity Analytics: https://unity3d.com/legal/privacy-policy
-  * Google Play: https://policies.google.com/technologies/partner-sites https://policies.google.com/privacy
+  * Google Play: https://policies.google.com/technologies/partner-sites 
+  * Google Play: https://policies.google.com/privacy
 
 **Access to your data, and permanent deletion of your data**
 
