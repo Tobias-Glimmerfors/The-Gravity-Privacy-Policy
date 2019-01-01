@@ -107,4 +107,4 @@ You can lodge a complaint with us about any breach of our Privacy Policy at the 
 If you have any questions about our Privacy Policy, please contact us at:  
 E: tobias.glimmerfors@gmail.com  
   
-Privacy policy last updated 18 Sept 2018
+Privacy policy last updated 01 Jan 2019
