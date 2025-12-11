@@ -65,7 +65,8 @@ We will not attempt to obtain nor record any sensitive information.
 Advertisements from third party ad networks may be displayed in our Games from time to time. All reasonable endeavours are used to ensure that these ad networks comply with all applicable legislation in the provision of their services towards us.
 If you click on any advertisements through Our game, the advertisers may use cookies and other web-tracking technologies to collect data, to provide targeted advertisements to you. Some of this may be personal information, and some of it non-personal information. We recommend that you review the terms of use and privacy policy for any advertiser with whom you are interacting before doing so.
 The list of our ad networks privacy policies may be found here:  
-  * Unity Ads: https://unity3d.com/legal/privacy-policy  
+  * Unity Ads: https://unity3d.com/legal/privacy-policy
+  * Google AdMob: https://policies.google.com/privacy
 
 **Opting out of targeted advertising**
 
@@ -80,7 +81,7 @@ Our websites and apps may also contain APIs from other third parties. As with Go
 Our third-party partners, and their privacy policies are as follows:  
   * Unity Analytics: https://unity3d.com/legal/privacy-policy
   * Google Play: https://policies.google.com/technologies/partner-sites 
-  * Google Play: https://policies.google.com/privacy
+  * Google Play: https://policies.google.com/technologies/partner-sites
 
 **Access to your data, and permanent deletion of your data**
 
@@ -107,4 +108,5 @@ You can lodge a complaint with us about any breach of our Privacy Policy at the 
 If you have any questions about our Privacy Policy, please contact us at:  
 E: tobias.glimmerfors@gmail.com  
   
-Privacy policy last updated 01 Jan 2019
+Privacy policy last updated 11 Dec 2025
+
