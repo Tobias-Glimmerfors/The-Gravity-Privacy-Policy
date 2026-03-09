@@ -92,6 +92,7 @@ We will retain your data only as necessary for our legitimate business interests
 No matter how we come in contact with your data, you have the right to access the data We hold about you and to update and/or correct it, subject to certain exceptions.
 
 If you have signed in using Google Play Games and wish to delete your leaderboard data or disconnect your account from our game, you can do so by contacting us directly at tobias.glimmerfors@gmail.com with the subject line "Data Deletion Request", and explain what it is you wish to do. You may also revoke the game's access to your Google Play Games account directly through your Google account settings.
+Alternatively, you can submit a request by filling in this form: https://docs.google.com/forms/d/e/1FAIpQLSfqLf7GyF2Re5x745MJSmcYhlytUKZpi8tDwiE_Dd5GBnOHow/viewform?usp=dialog
 
 **Data Subject Requests**
 
@@ -114,5 +115,6 @@ If you have any questions about our Privacy Policy, please contact us at:
 E: tobias.glimmerfors@gmail.com  
   
 Privacy policy last updated 9 Mar 2026
+
 
 
