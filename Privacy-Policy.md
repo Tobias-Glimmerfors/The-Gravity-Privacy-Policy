@@ -40,10 +40,15 @@ To operate and manage our services we need to use third party service providers 
   * Demographic data (to determine the coarse location of your IP address)
   * Data from platforms that the games run on; and
   * Data for advertising and analytics purposes.
-  * If you choose to log in using Google Play Games Services, we will receive certain profile information to authenticate your account and save your progress. This includes your Google Play Games Player ID and your chosen username (Gamer Tag).
+  * If you choose to log in using Google Play Games Services (Android) or Apple Game Center (iOS), we will receive certain profile information to authenticate your account and save your progress. This includes your platform player ID and your chosen username (Gamer Tag / Alias). These identifiers are linked to a Unity Gaming Services player profile, which is what our leaderboards use to identify you.
 
 **Leaderboards and Publicly Visible Data**
-Our game features leaderboards powered by Unity Gaming Services (UGS). If you choose to participate in the leaderboards, please be aware that certain information will be publicly visible to other players. This includes your in-game username (or Google Play Games username, if linked) and your gameplay scores/statistics. By playing the game and participating in the leaderboards, you consent to this data being shared with UGS and displayed publicly within the app.
+Our game features leaderboards. To support these, we use two third-party services:
+
+  * Unity Gaming Services (UGS) is used for player authentication. UGS provides a stable anonymous player ID that identifies you across sessions and, if you link your account, across devices.
+  * Supabase is used to store the leaderboard data — specifically, your UGS player ID, your chosen display name, and your scores.
+
+If you choose to participate in the leaderboards, certain information will be publicly visible to other players. This includes your in-game username (or Google Play Games / Apple Game Center username, if linked) and your gameplay scores/statistics. By playing the game and participating in the leaderboards, you consent to this data being shared with Unity Gaming Services and Supabase and displayed publicly within the app. Supabase hosts our leaderboard database on servers located in Germany. Supabase's privacy policy is at https://supabase.com/privacy.
 
 **How do we use the data we collect?**
 
@@ -85,14 +90,15 @@ Our websites and apps may also contain APIs from other third parties. As with Go
 Our third-party partners, and their privacy policies are as follows:  
   * Unity Technologies (Unity Ads, Unity Analytics, and Unity Gaming Services for leaderboards): https://unity3d.com/legal/privacy-policy
   * Google (Google AdMob, Google Play, and Google Play Games Services): https://policies.google.com/technologies/partner-sites and https://policies.google.com/privacy
+  * Apple (Apple Game Center sign-in on iOS): https://www.apple.com/legal/privacy/
+  * Supabase Inc. (leaderboard database backend for storing player IDs, display names, and scores): https://supabase.com/privacy
 
 **Access to your data, and permanent deletion of your data**
 
 We will retain your data only as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and enforce our agreements.  
 No matter how we come in contact with your data, you have the right to access the data We hold about you and to update and/or correct it, subject to certain exceptions.
 
-If you have signed in using Google Play Games and wish to delete your leaderboard data or disconnect your account from our game, you can do so by contacting us directly at tobias.glimmerfors@gmail.com with the subject line "Data Deletion Request", and explain what it is you wish to do. You may also revoke the game's access to your Google Play Games account directly through your Google account settings.
-Alternatively, you can submit a request by filling in this form: https://docs.google.com/forms/d/e/1FAIpQLSfqLf7GyF2Re5x745MJSmcYhlytUKZpi8tDwiE_Dd5GBnOHow/viewform?usp=dialog
+If you wish to delete your leaderboard data or disconnect your account from our game, you can do so by contacting us directly at tobias.glimmerfors@gmail.com with the subject line "Data Deletion Request". Data deletion requests will remove your records from both Unity Gaming Services and Supabase. You may also revoke the game's access to your Google Play Games or Apple Game Center account directly through your platform's account settings.
 
 **Data Subject Requests**
 
@@ -114,7 +120,7 @@ You can lodge a complaint with us about any breach of our Privacy Policy at the 
 If you have any questions about our Privacy Policy, please contact us at:  
 E: tobias.glimmerfors@gmail.com  
   
-Privacy policy last updated 9 Mar 2026
+Privacy policy last updated 11 May 2026
 
 
 
