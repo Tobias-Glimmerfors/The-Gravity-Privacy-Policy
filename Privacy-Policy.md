@@ -50,6 +50,14 @@ Our game features leaderboards. To support these, we use two third-party service
 
 If you choose to participate in the leaderboards, certain information will be publicly visible to other players. This includes your in-game username (or Google Play Games / Apple Game Center username, if linked) and your gameplay scores/statistics. By playing the game and participating in the leaderboards, you consent to this data being shared with Unity Gaming Services and Supabase and displayed publicly within the app. Supabase hosts our leaderboard database on servers located in Germany. Supabase's privacy policy is at https://supabase.com/privacy.
 
+**Camera and Puzzle Scanning**
+
+Some of our games include a scan feature that uses your device's camera to recognise the colours of a physical puzzle you are holding, so that the game can show you how to solve it. The feature is optional: the camera is only used after you choose to scan a puzzle and grant the camera permission, and it is only active while you are scanning.
+
+All processing of the camera image happens on your device. Each camera frame is analysed in memory and discarded straight away. We do not take, store or upload photos or videos, and no image, video or colour data from the camera is sent to us or to any third party. You can revoke the camera permission at any time in your device's settings; the scan feature will then let you enter the puzzle's colours by hand instead.
+
+To improve the feature, we record through our analytics providers that the scan feature was used, which puzzle it was used for, how many stickers were recognised, and whether a solution was found. This is non-personal usage data of the kind described under 'Collection of other Non-Personal Information' below, and it never includes any camera content.
+
 **How do we use the data we collect?**
 
 Data collected can be personal to you or non-personal, and sometimes data that doesn’t appear to be personal can become personal if certain other facts are learned. No matter how we come to collect your data, we will always treat it in accordance with this document, and any applicable legislation.  
@@ -120,7 +128,7 @@ You can lodge a complaint with us about any breach of our Privacy Policy at the 
 If you have any questions about our Privacy Policy, please contact us at:  
 E: tobias.glimmerfors@gmail.com  
   
-Privacy policy last updated 11 May 2026
+Privacy policy last updated 21 October 2026
 
 
 
